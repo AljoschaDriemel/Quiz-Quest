@@ -1,5 +1,5 @@
 # Quiz-Quest
 
 ##Creators
-Aljoscha Driemel
+Aljoscha Driemel &
 Karim Afettouche
